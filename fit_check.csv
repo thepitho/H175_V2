@@ -1,0 +1,13 @@
+parca;link;cx;cy;cz;sx;sy;sz;kg;sonuc;aciklama
+jetson_agx_orin;head;-20;0;1600;110;110;72;1.0;SIGAR;Jetson AGX Orin dev kit, 110x110x72
+cam_stereo_L;head;70;45;1600;35;30;30;0.06;SIGAR;global shutter RGB 60fps
+cam_stereo_R;head;70;-45;1600;35;30;30;0.06;SIGAR;global shutter RGB 60fps
+tof_sensor;head;72;0;1640;30;20;15;0.03;SIGAR;ToF
+head_sensor_hub;head;-20;0;1480;100;80;16;0.12;SIGAR;sensor hub / IMU kart
+battery_L;torso;-145;62;1185;80;115;200;4.1;SIGAR;48V paket, ~0.74 kWh, hot-swap
+battery_R;torso;-145;-62;1185;80;115;200;4.1;SIGAR;48V paket, ~0.74 kWh, hot-swap
+pdb_estop;torso;50;0;1075;100;140;40;0.6;SIGAR;guc dagitim + e-stop + kontaktor
+rt_controller;torso;50;0;1130;100;80;30;0.35;SIGAR;gercek zamanli kontrolcu / EtherCAT master
+eth_can_hub;torso;50;0;1170;80;60;20;0.2;SIGAR;Ethernet switch + CAN hub
+torso_imu;torso;0;0;1190;40;40;15;0.05;SIGAR;IMU
+lidar_mid360;torso;125;0;1290;65;65;60;0.27;DIS MONTAJ;lidar >=10 m, 360 derece

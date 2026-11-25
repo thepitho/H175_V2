@@ -1,0 +1,19 @@
+import FreeCAD as App, Part, json, os
+from PySide import QtWidgets
+path,_=QtWidgets.QFileDialog.getOpenFileName(None,'Select H175 geometry.json','','JSON (*.json)')
+if path:
+    data=json.load(open(path)); doc=App.newDocument('H175_V2')
+    for name,(origin,prims,mass) in data.items():
+        group=doc.addObject('App::Part',name)
+        for i,(typ,x,y,z,*v) in enumerate(prims):
+            if typ=='box':
+                a,b,c=v; obj=doc.addObject('Part::Box',name+'_box_'+str(i)); obj.Length=a;obj.Width=b;obj.Height=c
+                obj.Placement.Base=App.Vector(x-a/2,y-b/2,z-c/2)
+            else:
+                r,h,axis=v; obj=doc.addObject('Part::Cylinder',name+'_cyl_'+str(i));obj.Radius=r;obj.Height=h
+                vec={'x':App.Vector(1,0,0),'y':App.Vector(0,1,0),'z':App.Vector(0,0,1)}[axis]
+                obj.Placement=App.Placement(App.Vector(x,y,z)-vec*(h/2),App.Rotation(App.Vector(0,0,1),vec))
+            group.addObject(obj)
+        group.addProperty('App::PropertyFloat','EstimatedMassKg','Concept');group.EstimatedMassKg=mass
+    doc.recompute();Gui.activeDocument().activeView().viewAxonometric();Gui.activeDocument().activeView().fitAll()
+    doc.saveAs(os.path.join(os.path.dirname(path),'H175_V2.FCStd'))

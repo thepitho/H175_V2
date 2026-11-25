@@ -1,0 +1,10 @@
+[mevcut 0.6] nesil 3 basarili 24 | sc=2.00 ok=True x=11.56/11.56 rms/anma=0.93 asim=0.0 hiz/wnl=0.67
+[mevcut 0.6] nesil 6 basarili 24 | sc=2.00 ok=True x=11.65/11.65 rms/anma=1.0 asim=0.0 hiz/wnl=0.59
+[mevcut 1.0] nesil 3 basarili 24 | sc=1.95 ok=True x=11.33/11.34 rms/anma=1.07 asim=0.0 hiz/wnl=1.08
+[mevcut 1.0] nesil 6 basarili 24 | sc=1.97 ok=True x=11.5/11.5 rms/anma=1.06 asim=0.0 hiz/wnl=1.0
+[mevcut 1.0] nesil 8 basarili 24 | sc=1.97 ok=True x=11.48/11.49 rms/anma=1.06 asim=0.0 hiz/wnl=1.0
+[mevcut 1.4] nesil 3 basarili 24 | sc=1.73 ok=True x=10.96/10.97 rms/anma=1.39 asim=2.1 hiz/wnl=1.34
+[mevcut 1.4] nesil 6 basarili 24 | sc=1.73 ok=True x=10.96/10.97 rms/anma=1.39 asim=2.1 hiz/wnl=1.34
+[mevcut 1.4] nesil 9 basarili 24 | sc=1.74 ok=True x=11.19/11.2 rms/anma=1.41 asim=1.3 hiz/wnl=1.3
+[hizli 1.4] nesil 2 basarili 24 | sc=1.74 ok=True x=10.98/11.07 rms/anma=1.37 asim=2.9 hiz/wnl=0.77
+[guclu 1.4] nesil 2 basarili 24 | sc=1.89 ok=True x=10.98/11.01 rms/anma=1.14 asim=1.9 hiz/wnl=0.55

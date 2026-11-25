@@ -1,0 +1,30 @@
+﻿Kriter;Çağrı özeti;Hedef;Durum
+Boy;>=1600 mm;1750 mm;CAD nominal
+Gövde eksenleri;>=40;42;"URDF sayımı; fiziksel bağımsızlık doğrulanmadı"
+El eksenleri;>=15/ el;15/ el;"URDF sayımı; aktüatörler yok"
+Kol yükü;15 kg @ 700 mm;17.5 kg @ 750 mm;Analiz/test gerekli
+İki el kaldırma;35 kg;40 kg;Analiz/test gerekli
+Yürüme;1.4 m/s;1.6 m/s;Test gerekli
+Koşu;2.2 m/s;2.5 m/s;Test gerekli
+Basamak/engel;200 mm;250 mm;Test gerekli
+Eğim;25 derece;30 derece;Test gerekli
+Darbe;60 Ns;70 Ns;Test gerekli
+IP;IP54;IP54;Test gerekli
+Sıcaklık;0–40 C;0–45 C;Test gerekli
+Batarya;4 saat;4.5 saat;Enerji tasarımı gerekli
+Hot swap;<=3 dk;<=2 dk;Tasarım gerekli
+Şarj 20–80%;<=30 dk;<=25 dk;Tasarım gerekli
+Parmak ucu;15 N;20 N;Test gerekli
+Avuç;80 N;100 N;Test gerekli
+El açma kapama;<=250 ms;<=200 ms;Test gerekli
+Parmak doğruluğu;<=1 mm;<=0.8 mm;Test gerekli
+El yükü;15 kg kaymadan;15 kg;Test gerekli
+El yapısı;4 parmak + karşı başparmak;5 parmak;Başparmak karşı konumlanma doğrulanmadı
+Dokunsal;Parmak/avuç temas basınç kayma;Sensör dizileri;Tasarım gerekli
+Görüş;2 global shutter RGB >=60 fps, stereo, 360 kamera, ToF;Aynı;Tasarım gerekli
+Lidar/radar;>=10 m;>=10 m;Tasarım gerekli
+Kuvvet;6 eksen ayak F/T, tork duyarlı kol, temas bantları;Aynı;Tasarım gerekli
+Algı planlama;<=100 ms;<=80 ms;Test gerekli
+Çarpışma;<5 ms;<=3 ms;Test gerekli
+AI;Entegre;Entegre;Yazılım gerekli
+Temas yüzeyi;Kaydırmaz, aşınma/sıvı dayanımı;Elastomer ped;Malzeme/test gerekli

@@ -1,0 +1,802 @@
+[
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.1,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 0.7,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": true,
+  "dist": 0.9750491456222592,
+  "egim": 4.4,
+  "kayma": 1.1,
+  "x": 6.448,
+  "plan": 6.613,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.3,
+   "dsr": 0.1,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": true,
+  "dist": 0.9370148200423429,
+  "egim": 5.3,
+  "kayma": 1.4,
+  "x": 5.311,
+  "plan": 5.668,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.0,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.4896969696969697,
+  "egim": 46.8,
+  "kayma": 8.2,
+  "x": 6.091,
+  "plan": 6.613,
+  "dustu": 8.08
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.15,
+   "widthz": 0.9,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.48484848484848486,
+  "egim": 42.8,
+  "kayma": 6.6,
+  "x": 6.352,
+  "plan": 6.613,
+  "dustu": 8.0
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 2.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.476969696969697,
+  "egim": 38.0,
+  "kayma": 5.8,
+  "x": 5.832,
+  "plan": 6.611,
+  "dustu": 7.87
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.15,
+   "widthz": 0.9,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.47454545454545455,
+  "egim": 47.1,
+  "kayma": 9.3,
+  "x": 6.757,
+  "plan": 6.613,
+  "dustu": 7.83
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.46545454545454545,
+  "egim": 28.0,
+  "kayma": 5.8,
+  "x": 4.258,
+  "plan": 6.611,
+  "dustu": 7.68
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.05,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.463030303030303,
+  "egim": 44.7,
+  "kayma": 8.3,
+  "x": 6.722,
+  "plan": 6.611,
+  "dustu": 7.64
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.1,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.4575757575757576,
+  "egim": 36.6,
+  "kayma": 4.4,
+  "x": 5.767,
+  "plan": 6.611,
+  "dustu": 7.55
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.0,
+   "kscale": 2.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.4490909090909091,
+  "egim": 36.0,
+  "kayma": 4.1,
+  "x": 5.85,
+  "plan": 6.611,
+  "dustu": 7.41
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.4,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.05,
+   "widthz": 0.7,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 2.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.44777777777777783,
+  "egim": 46.5,
+  "kayma": 3.0,
+  "x": 7.061,
+  "plan": 7.556,
+  "dustu": 8.06
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.4,
+   "dsr": 0.05,
+   "zh": 0.76,
+   "stepH": 0.06,
+   "heel": 0.15,
+   "widthz": 1.0,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 2.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.44222222222222224,
+  "egim": 36.1,
+  "kayma": 6.6,
+  "x": 6.775,
+  "plan": 7.555,
+  "dustu": 7.96
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.1,
+   "widthz": 0.9,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 2.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.44,
+  "egim": 44.9,
+  "kayma": 6.3,
+  "x": 6.141,
+  "plan": 6.613,
+  "dustu": 7.26
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.1,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.05,
+   "widthz": 0.9,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.4327272727272727,
+  "egim": 39.0,
+  "kayma": 3.9,
+  "x": 6.31,
+  "plan": 6.613,
+  "dustu": 7.14
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.3,
+   "dsr": 0.15,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.15,
+   "widthz": 0.7,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 2.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.42733333333333334,
+  "egim": 32.3,
+  "kayma": 6.8,
+  "x": 3.141,
+  "plan": 5.666,
+  "dustu": 6.41
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.15,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.15,
+   "widthz": 1.0,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.4193939393939394,
+  "egim": 29.4,
+  "kayma": 3.6,
+  "x": 5.575,
+  "plan": 6.613,
+  "dustu": 6.92
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.4,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 0.9,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.4066666666666667,
+  "egim": 28.5,
+  "kayma": 7.5,
+  "x": 5.271,
+  "plan": 7.558,
+  "dustu": 7.32
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.45,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.1,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.3882051282051282,
+  "egim": 17.8,
+  "kayma": 5.4,
+  "x": 7.153,
+  "plan": 8.502,
+  "dustu": 7.57
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.06,
+   "heel": 0.15,
+   "widthz": 1.0,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 2.0,
+   "kpitch": 300.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.3787878787878788,
+  "egim": 26.6,
+  "kayma": 3.5,
+  "x": 5.06,
+  "plan": 6.612,
+  "dustu": 6.25
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.3,
+   "dsr": 0.15,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 1.0,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 2.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     200,
+     18
+    ],
+    "knee": [
+     200,
+     22
+    ],
+    "ankle_pitch": [
+     120,
+     16
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.378,
+  "egim": 40.5,
+  "kayma": 3.5,
+  "x": 3.857,
+  "plan": 5.668,
+  "dustu": 5.67
+ }
+]

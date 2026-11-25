@@ -1,0 +1,542 @@
+[
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.15,
+   "widthz": 0.9,
+   "arm": 0.0,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9968249386635878,
+  "egim": 1.4,
+  "kayma": 0.8,
+  "x": 6.907,
+  "plan": 6.929,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.1,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9950909615939937,
+  "egim": 2.0,
+  "kayma": 0.5,
+  "x": 6.892,
+  "plan": 6.926,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.3,
+   "dsr": 0.1,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9946109801279892,
+  "egim": 2.0,
+  "kayma": 0.5,
+  "x": 5.906,
+  "plan": 5.938,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.04,
+   "heel": 0.05,
+   "widthz": 0.9,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9911951501154734,
+  "egim": 1.4,
+  "kayma": 0.6,
+  "x": 6.867,
+  "plan": 6.928,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.1,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 0.7,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9898960739030023,
+  "egim": 3.2,
+  "kayma": 0.7,
+  "x": 6.858,
+  "plan": 6.928,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.1,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.05,
+   "widthz": 0.9,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9898960739030023,
+  "egim": 3.0,
+  "kayma": 0.7,
+  "x": 6.858,
+  "plan": 6.928,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9896043892578689,
+  "egim": 2.1,
+  "kayma": 0.6,
+  "x": 6.854,
+  "plan": 6.926,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.05,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 300.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9877274039849842,
+  "egim": 2.3,
+  "kayma": 0.6,
+  "x": 6.841,
+  "plan": 6.926,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.4,
+   "dsr": 0.15,
+   "zh": 0.78,
+   "stepH": 0.06,
+   "heel": 0.15,
+   "widthz": 0.7,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.986863711001642,
+  "egim": 4.5,
+  "kayma": 1.0,
+  "x": 7.813,
+  "plan": 7.917,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.4,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 0.9,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9861076029300327,
+  "egim": 2.1,
+  "kayma": 1.3,
+  "x": 7.808,
+  "plan": 7.918,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.15,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.15,
+   "widthz": 1.0,
+   "arm": 0.0,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9844110854503465,
+  "egim": 2.1,
+  "kayma": 0.5,
+  "x": 6.82,
+  "plan": 6.928,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.0,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 1.0,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 300.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9813799076212472,
+  "egim": 2.1,
+  "kayma": 0.7,
+  "x": 6.799,
+  "plan": 6.928,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.1,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 0.9,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9806581986143187,
+  "egim": 1.9,
+  "kayma": 0.7,
+  "x": 6.794,
+  "plan": 6.928,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.4,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.15,
+   "widthz": 0.7,
+   "arm": 0.0,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 300.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9802955665024631,
+  "egim": 3.7,
+  "kayma": 0.6,
+  "x": 7.761,
+  "plan": 7.917,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 1.0,
+   "kscale": 2.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9757435749350274,
+  "egim": 3.8,
+  "kayma": 1.0,
+  "x": 6.758,
+  "plan": 6.926,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.4,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.05,
+   "widthz": 0.7,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 2.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9756189994946942,
+  "egim": 3.1,
+  "kayma": 1.0,
+  "x": 7.723,
+  "plan": 7.916,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.15,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 0.7,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9756062355658199,
+  "egim": 3.4,
+  "kayma": 0.9,
+  "x": 6.759,
+  "plan": 6.928,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.15,
+   "widthz": 0.9,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9750288683602771,
+  "egim": 2.3,
+  "kayma": 0.7,
+  "x": 6.755,
+  "plan": 6.928,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.15,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.0,
+   "widthz": 0.7,
+   "arm": 0.0,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 1.0,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9737297921478061,
+  "egim": 6.2,
+  "kayma": 0.8,
+  "x": 6.746,
+  "plan": 6.928,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.2,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.06,
+   "heel": 0.15,
+   "widthz": 1.0,
+   "arm": 0.6,
+   "nSteps": 18
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 2.0,
+   "kpitch": 300.0,
+   "kroll": 300.0,
+   "mot": null
+  },
+  "ok": true,
+  "dist": 0.9731485491554785,
+  "egim": 8.5,
+  "kayma": 2.0,
+  "x": 6.741,
+  "plan": 6.927,
+  "dustu": null
+ }
+]

@@ -1,0 +1,568 @@
+{
+ "total_mass_kg": 69.01952401742845,
+ "joints": {
+  "waist_yaw": {
+   "motor": "AK10-9",
+   "tau_peak": 53.0,
+   "tau_rated": 18.0,
+   "armature": 0.045,
+   "w_noload": 38.0
+  },
+  "waist_roll": {
+   "motor": "AK80-64",
+   "tau_peak": 120.0,
+   "tau_rated": 48.0,
+   "armature": 0.095,
+   "w_noload": 6.3
+  },
+  "waist_pitch": {
+   "motor": "HT-300",
+   "tau_peak": 300.0,
+   "tau_rated": 120.0,
+   "armature": 0.15,
+   "w_noload": 8.0
+  },
+  "neck_yaw": {
+   "motor": "AK60-6",
+   "tau_peak": 9.0,
+   "tau_rated": 3.0,
+   "armature": 0.01,
+   "w_noload": 36.0
+  },
+  "neck_roll": {
+   "motor": "AK60-6",
+   "tau_peak": 9.0,
+   "tau_rated": 3.0,
+   "armature": 0.01,
+   "w_noload": 36.0
+  },
+  "neck_pitch": {
+   "motor": "AK70-10",
+   "tau_peak": 24.8,
+   "tau_rated": 8.3,
+   "armature": 0.025,
+   "w_noload": 38.0
+  },
+  "L_hip_pitch": {
+   "motor": "HT-200",
+   "tau_peak": 200.0,
+   "tau_rated": 80.0,
+   "armature": 0.11,
+   "w_noload": 11.0
+  },
+  "L_hip_roll": {
+   "motor": "AK80-64",
+   "tau_peak": 120.0,
+   "tau_rated": 48.0,
+   "armature": 0.095,
+   "w_noload": 6.3
+  },
+  "L_hip_yaw": {
+   "motor": "AK10-9",
+   "tau_peak": 53.0,
+   "tau_rated": 18.0,
+   "armature": 0.045,
+   "w_noload": 38.0
+  },
+  "L_knee": {
+   "motor": "HT-200",
+   "tau_peak": 200.0,
+   "tau_rated": 80.0,
+   "armature": 0.11,
+   "w_noload": 11.0
+  },
+  "L_ankle_pitch": {
+   "motor": "AK80-64",
+   "tau_peak": 120.0,
+   "tau_rated": 48.0,
+   "armature": 0.095,
+   "w_noload": 6.3
+  },
+  "L_ankle_roll": {
+   "motor": "AK10-9",
+   "tau_peak": 53.0,
+   "tau_rated": 18.0,
+   "armature": 0.045,
+   "w_noload": 38.0
+  },
+  "L_toe": {
+   "motor": "AK70-10",
+   "tau_peak": 24.8,
+   "tau_rated": 8.3,
+   "armature": 0.025,
+   "w_noload": 38.0
+  },
+  "L_scapula": {
+   "motor": "AK10-9",
+   "tau_peak": 53.0,
+   "tau_rated": 18.0,
+   "armature": 0.045,
+   "w_noload": 38.0
+  },
+  "L_clavicle": {
+   "motor": "AK10-9",
+   "tau_peak": 53.0,
+   "tau_rated": 18.0,
+   "armature": 0.045,
+   "w_noload": 38.0
+  },
+  "L_shoulder_pitch": {
+   "motor": "HT-200",
+   "tau_peak": 200.0,
+   "tau_rated": 80.0,
+   "armature": 0.11,
+   "w_noload": 11.0
+  },
+  "L_shoulder_roll": {
+   "motor": "AK80-64",
+   "tau_peak": 120.0,
+   "tau_rated": 48.0,
+   "armature": 0.095,
+   "w_noload": 6.3
+  },
+  "L_shoulder_yaw": {
+   "motor": "AK80-64",
+   "tau_peak": 120.0,
+   "tau_rated": 48.0,
+   "armature": 0.095,
+   "w_noload": 6.3
+  },
+  "L_elbow": {
+   "motor": "AK80-64",
+   "tau_peak": 120.0,
+   "tau_rated": 48.0,
+   "armature": 0.095,
+   "w_noload": 6.3
+  },
+  "L_forearm_twist": {
+   "motor": "AK70-10",
+   "tau_peak": 24.8,
+   "tau_rated": 8.3,
+   "armature": 0.025,
+   "w_noload": 38.0
+  },
+  "L_wrist_pitch": {
+   "motor": "AK70-10",
+   "tau_peak": 24.8,
+   "tau_rated": 8.3,
+   "armature": 0.025,
+   "w_noload": 38.0
+  },
+  "L_wrist_roll": {
+   "motor": "AK70-10",
+   "tau_peak": 24.8,
+   "tau_rated": 8.3,
+   "armature": 0.025,
+   "w_noload": 38.0
+  },
+  "L_wrist_yaw": {
+   "motor": "AK70-10",
+   "tau_peak": 24.8,
+   "tau_rated": 8.3,
+   "armature": 0.025,
+   "w_noload": 38.0
+  },
+  "L_index1": {
+   "motor": "finger",
+   "tau_peak": 1.5,
+   "tau_rated": 0.75,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_index2": {
+   "motor": "finger",
+   "tau_peak": 0.9,
+   "tau_rated": 0.45,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_index3": {
+   "motor": "finger",
+   "tau_peak": 0.5,
+   "tau_rated": 0.25,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_middle1": {
+   "motor": "finger",
+   "tau_peak": 1.5,
+   "tau_rated": 0.75,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_middle2": {
+   "motor": "finger",
+   "tau_peak": 0.9,
+   "tau_rated": 0.45,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_middle3": {
+   "motor": "finger",
+   "tau_peak": 0.5,
+   "tau_rated": 0.25,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_ring1": {
+   "motor": "finger",
+   "tau_peak": 1.5,
+   "tau_rated": 0.75,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_ring2": {
+   "motor": "finger",
+   "tau_peak": 0.9,
+   "tau_rated": 0.45,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_ring3": {
+   "motor": "finger",
+   "tau_peak": 0.5,
+   "tau_rated": 0.25,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_little1": {
+   "motor": "finger",
+   "tau_peak": 1.5,
+   "tau_rated": 0.75,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_little2": {
+   "motor": "finger",
+   "tau_peak": 0.9,
+   "tau_rated": 0.45,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_little3": {
+   "motor": "finger",
+   "tau_peak": 0.5,
+   "tau_rated": 0.25,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_thumb1": {
+   "motor": "finger",
+   "tau_peak": 1.5,
+   "tau_rated": 0.75,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_thumb2": {
+   "motor": "finger",
+   "tau_peak": 0.9,
+   "tau_rated": 0.45,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "L_thumb3": {
+   "motor": "finger",
+   "tau_peak": 0.5,
+   "tau_rated": 0.25,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_hip_pitch": {
+   "motor": "HT-200",
+   "tau_peak": 200.0,
+   "tau_rated": 80.0,
+   "armature": 0.11,
+   "w_noload": 11.0
+  },
+  "R_hip_roll": {
+   "motor": "AK80-64",
+   "tau_peak": 120.0,
+   "tau_rated": 48.0,
+   "armature": 0.095,
+   "w_noload": 6.3
+  },
+  "R_hip_yaw": {
+   "motor": "AK10-9",
+   "tau_peak": 53.0,
+   "tau_rated": 18.0,
+   "armature": 0.045,
+   "w_noload": 38.0
+  },
+  "R_knee": {
+   "motor": "HT-200",
+   "tau_peak": 200.0,
+   "tau_rated": 80.0,
+   "armature": 0.11,
+   "w_noload": 11.0
+  },
+  "R_ankle_pitch": {
+   "motor": "AK80-64",
+   "tau_peak": 120.0,
+   "tau_rated": 48.0,
+   "armature": 0.095,
+   "w_noload": 6.3
+  },
+  "R_ankle_roll": {
+   "motor": "AK10-9",
+   "tau_peak": 53.0,
+   "tau_rated": 18.0,
+   "armature": 0.045,
+   "w_noload": 38.0
+  },
+  "R_toe": {
+   "motor": "AK70-10",
+   "tau_peak": 24.8,
+   "tau_rated": 8.3,
+   "armature": 0.025,
+   "w_noload": 38.0
+  },
+  "R_scapula": {
+   "motor": "AK10-9",
+   "tau_peak": 53.0,
+   "tau_rated": 18.0,
+   "armature": 0.045,
+   "w_noload": 38.0
+  },
+  "R_clavicle": {
+   "motor": "AK10-9",
+   "tau_peak": 53.0,
+   "tau_rated": 18.0,
+   "armature": 0.045,
+   "w_noload": 38.0
+  },
+  "R_shoulder_pitch": {
+   "motor": "HT-200",
+   "tau_peak": 200.0,
+   "tau_rated": 80.0,
+   "armature": 0.11,
+   "w_noload": 11.0
+  },
+  "R_shoulder_roll": {
+   "motor": "AK80-64",
+   "tau_peak": 120.0,
+   "tau_rated": 48.0,
+   "armature": 0.095,
+   "w_noload": 6.3
+  },
+  "R_shoulder_yaw": {
+   "motor": "AK80-64",
+   "tau_peak": 120.0,
+   "tau_rated": 48.0,
+   "armature": 0.095,
+   "w_noload": 6.3
+  },
+  "R_elbow": {
+   "motor": "AK80-64",
+   "tau_peak": 120.0,
+   "tau_rated": 48.0,
+   "armature": 0.095,
+   "w_noload": 6.3
+  },
+  "R_forearm_twist": {
+   "motor": "AK70-10",
+   "tau_peak": 24.8,
+   "tau_rated": 8.3,
+   "armature": 0.025,
+   "w_noload": 38.0
+  },
+  "R_wrist_pitch": {
+   "motor": "AK70-10",
+   "tau_peak": 24.8,
+   "tau_rated": 8.3,
+   "armature": 0.025,
+   "w_noload": 38.0
+  },
+  "R_wrist_roll": {
+   "motor": "AK70-10",
+   "tau_peak": 24.8,
+   "tau_rated": 8.3,
+   "armature": 0.025,
+   "w_noload": 38.0
+  },
+  "R_wrist_yaw": {
+   "motor": "AK70-10",
+   "tau_peak": 24.8,
+   "tau_rated": 8.3,
+   "armature": 0.025,
+   "w_noload": 38.0
+  },
+  "R_index1": {
+   "motor": "finger",
+   "tau_peak": 1.5,
+   "tau_rated": 0.75,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_index2": {
+   "motor": "finger",
+   "tau_peak": 0.9,
+   "tau_rated": 0.45,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_index3": {
+   "motor": "finger",
+   "tau_peak": 0.5,
+   "tau_rated": 0.25,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_middle1": {
+   "motor": "finger",
+   "tau_peak": 1.5,
+   "tau_rated": 0.75,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_middle2": {
+   "motor": "finger",
+   "tau_peak": 0.9,
+   "tau_rated": 0.45,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_middle3": {
+   "motor": "finger",
+   "tau_peak": 0.5,
+   "tau_rated": 0.25,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_ring1": {
+   "motor": "finger",
+   "tau_peak": 1.5,
+   "tau_rated": 0.75,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_ring2": {
+   "motor": "finger",
+   "tau_peak": 0.9,
+   "tau_rated": 0.45,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_ring3": {
+   "motor": "finger",
+   "tau_peak": 0.5,
+   "tau_rated": 0.25,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_little1": {
+   "motor": "finger",
+   "tau_peak": 1.5,
+   "tau_rated": 0.75,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_little2": {
+   "motor": "finger",
+   "tau_peak": 0.9,
+   "tau_rated": 0.45,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_little3": {
+   "motor": "finger",
+   "tau_peak": 0.5,
+   "tau_rated": 0.25,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_thumb1": {
+   "motor": "finger",
+   "tau_peak": 1.5,
+   "tau_rated": 0.75,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_thumb2": {
+   "motor": "finger",
+   "tau_peak": 0.9,
+   "tau_rated": 0.45,
+   "armature": 0.0,
+   "w_noload": 12.0
+  },
+  "R_thumb3": {
+   "motor": "finger",
+   "tau_peak": 0.5,
+   "tau_rated": 0.25,
+   "armature": 0.0,
+   "w_noload": 12.0
+  }
+ },
+ "link_mass": {
+  "pelvis": 0.91,
+  "waist_yaw": 1.04,
+  "waist_roll": 0.93,
+  "torso": 16.811,
+  "neck_yaw": 0.37,
+  "neck_roll": 0.37,
+  "head": 3.609,
+  "L_hip_pitch": 2.517,
+  "L_hip_roll": 0.942,
+  "L_hip_yaw": 1.734,
+  "L_knee": 2.967,
+  "L_ankle_pitch": 0.93,
+  "L_ankle_roll": 1.298,
+  "L_toe": 0.643,
+  "L_scapula": 1.04,
+  "L_clavicle": 1.04,
+  "L_shoulder_pitch": 2.48,
+  "L_shoulder_roll": 0.93,
+  "L_shoulder_yaw": 1.223,
+  "L_elbow": 0.955,
+  "L_forearm_twist": 1.243,
+  "L_wrist_pitch": 0.6,
+  "L_wrist_roll": 0.6,
+  "L_wrist_yaw": 0.671,
+  "L_index1": 0.045,
+  "L_index2": 0.045,
+  "L_index3": 0.045,
+  "L_middle1": 0.045,
+  "L_middle2": 0.045,
+  "L_middle3": 0.045,
+  "L_ring1": 0.045,
+  "L_ring2": 0.045,
+  "L_ring3": 0.045,
+  "L_little1": 0.045,
+  "L_little2": 0.045,
+  "L_little3": 0.045,
+  "L_thumb1": 0.045,
+  "L_thumb2": 0.045,
+  "L_thumb3": 0.045,
+  "R_hip_pitch": 2.517,
+  "R_hip_roll": 0.942,
+  "R_hip_yaw": 1.734,
+  "R_knee": 2.967,
+  "R_ankle_pitch": 0.93,
+  "R_ankle_roll": 1.298,
+  "R_toe": 0.643,
+  "R_scapula": 1.04,
+  "R_clavicle": 1.04,
+  "R_shoulder_pitch": 2.48,
+  "R_shoulder_roll": 0.93,
+  "R_shoulder_yaw": 1.223,
+  "R_elbow": 0.955,
+  "R_forearm_twist": 1.243,
+  "R_wrist_pitch": 0.6,
+  "R_wrist_roll": 0.6,
+  "R_wrist_yaw": 0.671,
+  "R_index1": 0.045,
+  "R_index2": 0.045,
+  "R_index3": 0.045,
+  "R_middle1": 0.045,
+  "R_middle2": 0.045,
+  "R_middle3": 0.045,
+  "R_ring1": 0.045,
+  "R_ring2": 0.045,
+  "R_ring3": 0.045,
+  "R_little1": 0.045,
+  "R_little2": 0.045,
+  "R_little3": 0.045,
+  "R_thumb1": 0.045,
+  "R_thumb2": 0.045,
+  "R_thumb3": 0.045
+ }
+}

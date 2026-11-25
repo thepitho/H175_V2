@@ -1,0 +1,1639 @@
+[
+ {
+  "v": 1.4,
+  "label": "nominal",
+  "ok": true,
+  "t": 8.6,
+  "x": 7.0,
+  "plan": 7.07,
+  "hiz": 1.26,
+  "ucus_pct": 0.2,
+  "salinim_havada_pct": 94.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ],
+   [
+    "L_ankle_pitch",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.66
+   ],
+   [
+    "R_hip_pitch",
+    1.65
+   ],
+   [
+    "L_hip_yaw",
+    1.46
+   ],
+   [
+    "R_hip_yaw",
+    1.39
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.45
+   ],
+   [
+    "R_ankle_pitch",
+    1.29
+   ],
+   [
+    "L_knee",
+    1.2
+   ],
+   [
+    "R_knee",
+    0.77
+   ]
+  ],
+  "mu95": 0.58,
+  "penetrasyon_mm": 3.6,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 1.4,
+   "L_ankle_pitch": 2.5
+  },
+  "ayak_min_yanal_aralik_cm": 18.8,
+  "guc_ort_W": 1041,
+  "guc_tepe_W": 2706
+ },
+ {
+  "v": 1.4,
+  "label": "uzun 60 adim",
+  "ok": false,
+  "t": 19.1,
+  "x": 23.01,
+  "plan": 28.52,
+  "hiz": 1.32,
+  "ucus_pct": 2.4,
+  "salinim_havada_pct": 88.0,
+  "tork_tepe": [
+   [
+    "waist_yaw",
+    1.0
+   ],
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.7
+   ],
+   [
+    "R_hip_pitch",
+    1.7
+   ],
+   [
+    "L_hip_yaw",
+    1.47
+   ],
+   [
+    "R_hip_yaw",
+    1.46
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.26
+   ],
+   [
+    "R_ankle_pitch",
+    1.21
+   ],
+   [
+    "L_knee",
+    0.92
+   ],
+   [
+    "L_hip_pitch",
+    0.76
+   ]
+  ],
+  "mu95": 0.81,
+  "penetrasyon_mm": 15.4,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 1.4,
+   "L_ankle_pitch": 2.5,
+   "R_toe": 8.2,
+   "L_toe": 9.6
+  },
+  "ayak_min_yanal_aralik_cm": 15.8,
+  "guc_ort_W": 1116,
+  "guc_tepe_W": 3144
+ },
+ {
+  "v": 1.4,
+  "label": "dt 0.5ms",
+  "ok": true,
+  "t": 8.6,
+  "x": 6.96,
+  "plan": 7.07,
+  "hiz": 1.25,
+  "ucus_pct": 0.0,
+  "salinim_havada_pct": 94.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ],
+   [
+    "L_ankle_pitch",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "R_hip_pitch",
+    1.6
+   ],
+   [
+    "L_hip_pitch",
+    1.6
+   ],
+   [
+    "L_hip_yaw",
+    1.48
+   ],
+   [
+    "R_hip_yaw",
+    1.42
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.45
+   ],
+   [
+    "R_ankle_pitch",
+    1.29
+   ],
+   [
+    "L_knee",
+    1.19
+   ],
+   [
+    "R_knee",
+    0.77
+   ]
+  ],
+  "mu95": 0.53,
+  "penetrasyon_mm": 0.2,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 1.4,
+   "L_ankle_pitch": 2.1
+  },
+  "ayak_min_yanal_aralik_cm": 18.4,
+  "guc_ort_W": 964,
+  "guc_tepe_W": 2659
+ },
+ {
+  "v": 1.4,
+  "label": "surtunme 0.8",
+  "ok": true,
+  "t": 8.6,
+  "x": 7.02,
+  "plan": 7.07,
+  "hiz": 1.27,
+  "ucus_pct": 0.3,
+  "salinim_havada_pct": 95.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ],
+   [
+    "L_ankle_pitch",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.65
+   ],
+   [
+    "R_hip_pitch",
+    1.65
+   ],
+   [
+    "L_hip_yaw",
+    1.44
+   ],
+   [
+    "R_hip_yaw",
+    1.37
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.45
+   ],
+   [
+    "R_ankle_pitch",
+    1.29
+   ],
+   [
+    "L_knee",
+    1.2
+   ],
+   [
+    "R_knee",
+    0.77
+   ]
+  ],
+  "mu95": 0.57,
+  "penetrasyon_mm": 2.0,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 1.5,
+   "L_ankle_pitch": 2.5
+  },
+  "ayak_min_yanal_aralik_cm": 18.9,
+  "guc_ort_W": 1036,
+  "guc_tepe_W": 2721
+ },
+ {
+  "v": 1.4,
+  "label": "surtunme 0.6",
+  "ok": true,
+  "t": 8.6,
+  "x": 7.02,
+  "plan": 7.07,
+  "hiz": 1.27,
+  "ucus_pct": 0.6,
+  "salinim_havada_pct": 96.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ],
+   [
+    "L_ankle_pitch",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "R_hip_pitch",
+    1.65
+   ],
+   [
+    "L_hip_pitch",
+    1.64
+   ],
+   [
+    "L_hip_yaw",
+    1.42
+   ],
+   [
+    "R_hip_yaw",
+    1.34
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.45
+   ],
+   [
+    "R_ankle_pitch",
+    1.29
+   ],
+   [
+    "L_knee",
+    1.2
+   ],
+   [
+    "R_knee",
+    0.77
+   ]
+  ],
+  "mu95": 0.47,
+  "penetrasyon_mm": 1.3,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 1.4,
+   "L_ankle_pitch": 2.6
+  },
+  "ayak_min_yanal_aralik_cm": 18.3,
+  "guc_ort_W": 1033,
+  "guc_tepe_W": 2864
+ },
+ {
+  "v": 1.4,
+  "label": "govde +3kg",
+  "ok": true,
+  "t": 8.6,
+  "x": 7.01,
+  "plan": 7.07,
+  "hiz": 1.27,
+  "ucus_pct": 0.0,
+  "salinim_havada_pct": 95.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ],
+   [
+    "L_ankle_pitch",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.66
+   ],
+   [
+    "R_hip_pitch",
+    1.66
+   ],
+   [
+    "L_hip_yaw",
+    1.48
+   ],
+   [
+    "R_hip_yaw",
+    1.41
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.45
+   ],
+   [
+    "R_ankle_pitch",
+    1.29
+   ],
+   [
+    "L_knee",
+    1.2
+   ],
+   [
+    "R_knee",
+    0.77
+   ]
+  ],
+  "mu95": 0.53,
+  "penetrasyon_mm": 2.0,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 1.4,
+   "L_ankle_pitch": 2.4
+  },
+  "ayak_min_yanal_aralik_cm": 18.3,
+  "guc_ort_W": 1047,
+  "guc_tepe_W": 2708
+ },
+ {
+  "v": 1.4,
+  "label": "govde +7kg",
+  "ok": true,
+  "t": 8.6,
+  "x": 7.02,
+  "plan": 7.07,
+  "hiz": 1.27,
+  "ucus_pct": 0.1,
+  "salinim_havada_pct": 98.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ],
+   [
+    "L_ankle_pitch",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.65
+   ],
+   [
+    "R_hip_pitch",
+    1.65
+   ],
+   [
+    "L_hip_yaw",
+    1.5
+   ],
+   [
+    "L_knee",
+    1.47
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.45
+   ],
+   [
+    "R_ankle_pitch",
+    1.29
+   ],
+   [
+    "L_knee",
+    1.2
+   ],
+   [
+    "R_knee",
+    0.78
+   ]
+  ],
+  "mu95": 0.56,
+  "penetrasyon_mm": 0.7,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 1.4,
+   "L_ankle_pitch": 2.7
+  },
+  "ayak_min_yanal_aralik_cm": 17.9,
+  "guc_ort_W": 1057,
+  "guc_tepe_W": 2858
+ },
+ {
+  "v": 1.4,
+  "label": "itme +x 100 N",
+  "ok": true,
+  "t": 8.6,
+  "x": 6.9,
+  "plan": 7.07,
+  "hiz": 1.24,
+  "ucus_pct": 0.2,
+  "salinim_havada_pct": 93.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.66
+   ],
+   [
+    "R_hip_pitch",
+    1.62
+   ],
+   [
+    "L_hip_yaw",
+    1.46
+   ],
+   [
+    "R_hip_yaw",
+    1.38
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.45
+   ],
+   [
+    "R_ankle_pitch",
+    1.29
+   ],
+   [
+    "L_knee",
+    1.15
+   ],
+   [
+    "R_knee",
+    0.77
+   ]
+  ],
+  "mu95": 0.65,
+  "penetrasyon_mm": 6.3,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 1.4,
+   "L_ankle_pitch": 2.5
+  },
+  "ayak_min_yanal_aralik_cm": 17.0,
+  "guc_ort_W": 1035,
+  "guc_tepe_W": 3321
+ },
+ {
+  "v": 1.4,
+  "label": "itme -x 100 N",
+  "ok": true,
+  "t": 8.6,
+  "x": 6.92,
+  "plan": 7.07,
+  "hiz": 1.24,
+  "ucus_pct": 0.5,
+  "salinim_havada_pct": 94.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ],
+   [
+    "L_ankle_pitch",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "R_hip_pitch",
+    1.65
+   ],
+   [
+    "L_hip_pitch",
+    1.64
+   ],
+   [
+    "L_hip_yaw",
+    1.47
+   ],
+   [
+    "R_hip_yaw",
+    1.41
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.45
+   ],
+   [
+    "R_ankle_pitch",
+    1.29
+   ],
+   [
+    "L_knee",
+    1.2
+   ],
+   [
+    "R_knee",
+    0.77
+   ]
+  ],
+  "mu95": 0.6,
+  "penetrasyon_mm": 5.8,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 1.4,
+   "L_ankle_pitch": 2.5
+  },
+  "ayak_min_yanal_aralik_cm": 18.5,
+  "guc_ort_W": 1037,
+  "guc_tepe_W": 2964
+ },
+ {
+  "v": 1.4,
+  "label": "itme +y 100 N",
+  "ok": false,
+  "t": 7.6,
+  "x": 6.28,
+  "plan": 7.07,
+  "hiz": 1.15,
+  "ucus_pct": 6.7,
+  "salinim_havada_pct": 89.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.61
+   ],
+   [
+    "R_hip_pitch",
+    1.59
+   ],
+   [
+    "R_hip_yaw",
+    1.33
+   ],
+   [
+    "L_hip_yaw",
+    1.33
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.45
+   ],
+   [
+    "R_ankle_pitch",
+    1.29
+   ],
+   [
+    "L_knee",
+    1.23
+   ],
+   [
+    "L_hip_pitch",
+    0.76
+   ]
+  ],
+  "mu95": 0.77,
+  "penetrasyon_mm": 5.5,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 1.2,
+   "L_ankle_pitch": 2.5
+  },
+  "ayak_min_yanal_aralik_cm": 14.7,
+  "guc_ort_W": 1071,
+  "guc_tepe_W": 3923
+ },
+ {
+  "v": 1.4,
+  "label": "itme -y 100 N",
+  "ok": false,
+  "t": 7.4,
+  "x": 5.82,
+  "plan": 7.07,
+  "hiz": 1.11,
+  "ucus_pct": 5.0,
+  "salinim_havada_pct": 90.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.62
+   ],
+   [
+    "R_hip_pitch",
+    1.6
+   ],
+   [
+    "L_hip_yaw",
+    1.39
+   ],
+   [
+    "R_hip_yaw",
+    1.35
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.45
+   ],
+   [
+    "R_ankle_pitch",
+    1.29
+   ],
+   [
+    "L_knee",
+    1.22
+   ],
+   [
+    "L_hip_pitch",
+    0.76
+   ]
+  ],
+  "mu95": 0.76,
+  "penetrasyon_mm": 5.5,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 1.3,
+   "L_ankle_pitch": 2.5
+  },
+  "ayak_min_yanal_aralik_cm": 11.4,
+  "guc_ort_W": 1064,
+  "guc_tepe_W": 4783
+ },
+ {
+  "v": 1.6,
+  "label": "nominal",
+  "ok": true,
+  "t": 8.0,
+  "x": 7.11,
+  "plan": 7.28,
+  "hiz": 1.41,
+  "ucus_pct": 0.6,
+  "salinim_havada_pct": 93.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.89
+   ],
+   [
+    "R_hip_pitch",
+    1.89
+   ],
+   [
+    "L_hip_yaw",
+    1.45
+   ],
+   [
+    "R_hip_yaw",
+    1.38
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    2.46
+   ],
+   [
+    "L_knee",
+    2.34
+   ],
+   [
+    "R_ankle_pitch",
+    1.54
+   ],
+   [
+    "R_knee",
+    1.04
+   ]
+  ],
+  "mu95": 0.68,
+  "penetrasyon_mm": 7.4,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 3.0,
+   "L_ankle_pitch": 6.1,
+   "L_knee": 4.8
+  },
+  "ayak_min_yanal_aralik_cm": 17.8,
+  "guc_ort_W": 1477,
+  "guc_tepe_W": 5568
+ },
+ {
+  "v": 1.6,
+  "label": "uzun 60 adim",
+  "ok": false,
+  "t": 10.4,
+  "x": 12.49,
+  "plan": 29.39,
+  "hiz": 1.43,
+  "ucus_pct": 5.1,
+  "salinim_havada_pct": 87.0,
+  "tork_tepe": [
+   [
+    "waist_yaw",
+    1.0
+   ],
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.9
+   ],
+   [
+    "R_hip_pitch",
+    1.89
+   ],
+   [
+    "L_hip_yaw",
+    1.4
+   ],
+   [
+    "R_hip_yaw",
+    1.37
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_knee",
+    1.72
+   ],
+   [
+    "L_ankle_pitch",
+    1.7
+   ],
+   [
+    "R_ankle_pitch",
+    1.42
+   ],
+   [
+    "R_knee",
+    0.98
+   ]
+  ],
+  "mu95": 0.85,
+  "penetrasyon_mm": 12.6,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 3.0,
+   "L_ankle_pitch": 6.1,
+   "R_toe": 7.2
+  },
+  "ayak_min_yanal_aralik_cm": 16.8,
+  "guc_ort_W": 1545,
+  "guc_tepe_W": 5568
+ },
+ {
+  "v": 1.6,
+  "label": "dt 0.5ms",
+  "ok": true,
+  "t": 8.0,
+  "x": 6.75,
+  "plan": 7.28,
+  "hiz": 1.32,
+  "ucus_pct": 3.5,
+  "salinim_havada_pct": 91.0,
+  "tork_tepe": [
+   [
+    "waist_yaw",
+    1.0
+   ],
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.81
+   ],
+   [
+    "R_hip_pitch",
+    1.8
+   ],
+   [
+    "L_hip_yaw",
+    1.46
+   ],
+   [
+    "R_hip_yaw",
+    1.39
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    2.37
+   ],
+   [
+    "L_knee",
+    2.28
+   ],
+   [
+    "R_ankle_pitch",
+    1.53
+   ],
+   [
+    "R_knee",
+    1.03
+   ]
+  ],
+  "mu95": 0.67,
+  "penetrasyon_mm": 3.6,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 2.4,
+   "L_ankle_pitch": 3.6,
+   "L_knee": 3.9
+  },
+  "ayak_min_yanal_aralik_cm": 17.7,
+  "guc_ort_W": 1363,
+  "guc_tepe_W": 4292
+ },
+ {
+  "v": 1.6,
+  "label": "surtunme 0.8",
+  "ok": true,
+  "t": 8.0,
+  "x": 7.14,
+  "plan": 7.28,
+  "hiz": 1.42,
+  "ucus_pct": 1.7,
+  "salinim_havada_pct": 94.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.89
+   ],
+   [
+    "R_hip_pitch",
+    1.88
+   ],
+   [
+    "L_hip_yaw",
+    1.42
+   ],
+   [
+    "L_knee",
+    1.37
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    2.46
+   ],
+   [
+    "L_knee",
+    2.34
+   ],
+   [
+    "R_ankle_pitch",
+    1.54
+   ],
+   [
+    "R_knee",
+    1.04
+   ]
+  ],
+  "mu95": 0.59,
+  "penetrasyon_mm": 5.7,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 2.7,
+   "L_ankle_pitch": 6.1,
+   "L_knee": 4.8
+  },
+  "ayak_min_yanal_aralik_cm": 18.1,
+  "guc_ort_W": 1472,
+  "guc_tepe_W": 5599
+ },
+ {
+  "v": 1.6,
+  "label": "surtunme 0.6",
+  "ok": true,
+  "t": 8.0,
+  "x": 7.21,
+  "plan": 7.28,
+  "hiz": 1.42,
+  "ucus_pct": 2.6,
+  "salinim_havada_pct": 94.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ],
+   [
+    "L_ankle_pitch",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "R_hip_pitch",
+    1.89
+   ],
+   [
+    "L_hip_pitch",
+    1.88
+   ],
+   [
+    "L_hip_yaw",
+    1.4
+   ],
+   [
+    "L_knee",
+    1.36
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    2.43
+   ],
+   [
+    "L_knee",
+    2.31
+   ],
+   [
+    "R_ankle_pitch",
+    1.54
+   ],
+   [
+    "R_knee",
+    1.04
+   ]
+  ],
+  "mu95": 0.51,
+  "penetrasyon_mm": 3.2,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 2.7,
+   "L_ankle_pitch": 6.1,
+   "L_knee": 4.4
+  },
+  "ayak_min_yanal_aralik_cm": 18.1,
+  "guc_ort_W": 1478,
+  "guc_tepe_W": 5666
+ },
+ {
+  "v": 1.6,
+  "label": "govde +3kg",
+  "ok": true,
+  "t": 8.0,
+  "x": 7.13,
+  "plan": 7.28,
+  "hiz": 1.41,
+  "ucus_pct": 0.8,
+  "salinim_havada_pct": 94.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.89
+   ],
+   [
+    "R_hip_pitch",
+    1.88
+   ],
+   [
+    "L_hip_yaw",
+    1.48
+   ],
+   [
+    "L_knee",
+    1.42
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    2.43
+   ],
+   [
+    "L_knee",
+    2.33
+   ],
+   [
+    "R_ankle_pitch",
+    1.54
+   ],
+   [
+    "R_knee",
+    1.04
+   ]
+  ],
+  "mu95": 0.67,
+  "penetrasyon_mm": 7.8,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 3.1,
+   "L_ankle_pitch": 6.2,
+   "L_knee": 5.0
+  },
+  "ayak_min_yanal_aralik_cm": 17.5,
+  "guc_ort_W": 1485,
+  "guc_tepe_W": 5631
+ },
+ {
+  "v": 1.6,
+  "label": "govde +7kg",
+  "ok": false,
+  "t": 7.5,
+  "x": 7.24,
+  "plan": 7.28,
+  "hiz": 1.41,
+  "ucus_pct": 1.3,
+  "salinim_havada_pct": 94.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.88
+   ],
+   [
+    "R_hip_pitch",
+    1.88
+   ],
+   [
+    "L_knee",
+    1.48
+   ],
+   [
+    "L_hip_yaw",
+    1.48
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_knee",
+    2.15
+   ],
+   [
+    "L_ankle_pitch",
+    2.1
+   ],
+   [
+    "R_ankle_pitch",
+    1.54
+   ],
+   [
+    "R_knee",
+    1.04
+   ]
+  ],
+  "mu95": 0.75,
+  "penetrasyon_mm": 7.0,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 2.7,
+   "L_ankle_pitch": 6.2
+  },
+  "ayak_min_yanal_aralik_cm": 14.5,
+  "guc_ort_W": 1492,
+  "guc_tepe_W": 5719
+ },
+ {
+  "v": 1.6,
+  "label": "itme +x 100 N",
+  "ok": false,
+  "t": 7.9,
+  "x": 6.62,
+  "plan": 7.28,
+  "hiz": 1.35,
+  "ucus_pct": 2.3,
+  "salinim_havada_pct": 91.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ],
+   [
+    "L_ankle_pitch",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "R_hip_pitch",
+    1.87
+   ],
+   [
+    "L_hip_pitch",
+    1.86
+   ],
+   [
+    "L_hip_yaw",
+    1.43
+   ],
+   [
+    "R_hip_yaw",
+    1.36
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    2.44
+   ],
+   [
+    "L_knee",
+    2.33
+   ],
+   [
+    "R_ankle_pitch",
+    1.53
+   ],
+   [
+    "R_knee",
+    1.03
+   ]
+  ],
+  "mu95": 0.75,
+  "penetrasyon_mm": 8.1,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 3.0,
+   "L_ankle_pitch": 6.1,
+   "L_knee": 5.1
+  },
+  "ayak_min_yanal_aralik_cm": 16.3,
+  "guc_ort_W": 1462,
+  "guc_tepe_W": 5568
+ },
+ {
+  "v": 1.6,
+  "label": "itme -x 100 N",
+  "ok": false,
+  "t": 7.5,
+  "x": 6.07,
+  "plan": 7.28,
+  "hiz": 1.32,
+  "ucus_pct": 3.1,
+  "salinim_havada_pct": 91.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "R_hip_pitch",
+    1.85
+   ],
+   [
+    "L_hip_pitch",
+    1.85
+   ],
+   [
+    "L_hip_yaw",
+    1.41
+   ],
+   [
+    "L_knee",
+    1.36
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_knee",
+    1.84
+   ],
+   [
+    "L_ankle_pitch",
+    1.83
+   ],
+   [
+    "R_ankle_pitch",
+    1.54
+   ],
+   [
+    "R_knee",
+    1.04
+   ]
+  ],
+  "mu95": 0.85,
+  "penetrasyon_mm": 8.9,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 3.0,
+   "L_ankle_pitch": 6.1
+  },
+  "ayak_min_yanal_aralik_cm": 15.2,
+  "guc_ort_W": 1466,
+  "guc_tepe_W": 5647
+ },
+ {
+  "v": 1.6,
+  "label": "itme +y 100 N",
+  "ok": false,
+  "t": 7.7,
+  "x": 6.13,
+  "plan": 7.28,
+  "hiz": 1.33,
+  "ucus_pct": 2.9,
+  "salinim_havada_pct": 92.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "L_hip_pitch",
+    1.86
+   ],
+   [
+    "R_hip_pitch",
+    1.85
+   ],
+   [
+    "L_hip_yaw",
+    1.39
+   ],
+   [
+    "L_knee",
+    1.36
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_knee",
+    2.08
+   ],
+   [
+    "L_ankle_pitch",
+    2.06
+   ],
+   [
+    "R_ankle_pitch",
+    1.54
+   ],
+   [
+    "R_knee",
+    1.03
+   ]
+  ],
+  "mu95": 0.78,
+  "penetrasyon_mm": 8.4,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 3.0,
+   "L_ankle_pitch": 6.1
+  },
+  "ayak_min_yanal_aralik_cm": 16.3,
+  "guc_ort_W": 1471,
+  "guc_tepe_W": 5568
+ },
+ {
+  "v": 1.6,
+  "label": "itme -y 100 N",
+  "ok": false,
+  "t": 7.3,
+  "x": 6.17,
+  "plan": 7.28,
+  "hiz": 1.29,
+  "ucus_pct": 4.1,
+  "salinim_havada_pct": 90.0,
+  "tork_tepe": [
+   [
+    "L_hip_pitch",
+    1.0
+   ],
+   [
+    "L_hip_roll",
+    1.0
+   ],
+   [
+    "L_hip_yaw",
+    1.0
+   ],
+   [
+    "L_knee",
+    1.0
+   ]
+  ],
+  "rms_anma": [
+   [
+    "R_hip_pitch",
+    1.85
+   ],
+   [
+    "L_hip_pitch",
+    1.84
+   ],
+   [
+    "L_hip_yaw",
+    1.38
+   ],
+   [
+    "L_knee",
+    1.34
+   ]
+  ],
+  "hiz_wnl": [
+   [
+    "L_ankle_pitch",
+    1.77
+   ],
+   [
+    "L_knee",
+    1.72
+   ],
+   [
+    "R_ankle_pitch",
+    1.55
+   ],
+   [
+    "R_knee",
+    1.03
+   ]
+  ],
+  "mu95": 0.85,
+  "penetrasyon_mm": 7.0,
+  "eklem_siniri_asimi_derece": {
+   "R_ankle_pitch": 3.0,
+   "L_ankle_pitch": 6.1
+  },
+  "ayak_min_yanal_aralik_cm": 14.6,
+  "guc_ort_W": 1483,
+  "guc_tepe_W": 5568
+ }
+]

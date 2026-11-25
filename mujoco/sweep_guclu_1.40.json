@@ -1,0 +1,1042 @@
+[
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.3,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.0,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.0,
+   "kscale": 2.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": true,
+  "dist": 0.9691249117854622,
+  "egim": 2.8,
+  "kayma": 1.6,
+  "x": 5.493,
+  "plan": 5.668,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.05,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": true,
+  "dist": 1.013613674179398,
+  "egim": 17.3,
+  "kayma": 2.1,
+  "x": 6.701,
+  "plan": 6.611,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.06,
+   "heel": 0.15,
+   "widthz": 1.0,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 2.0,
+   "kpitch": 300.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": true,
+  "dist": 0.9888082274652148,
+  "egim": 35.6,
+  "kayma": 5.3,
+  "x": 6.538,
+  "plan": 6.612,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.15,
+   "widthz": 0.9,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": true,
+  "dist": 0.982912445183729,
+  "egim": 16.9,
+  "kayma": 2.2,
+  "x": 6.5,
+  "plan": 6.613,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.0,
+   "kscale": 2.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": true,
+  "dist": 0.9636968688549389,
+  "egim": 17.7,
+  "kayma": 2.3,
+  "x": 6.371,
+  "plan": 6.611,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.0,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": true,
+  "dist": 0.9442008165734159,
+  "egim": 13.1,
+  "kayma": 2.4,
+  "x": 6.244,
+  "plan": 6.613,
+  "dustu": null
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.15,
+   "widthz": 0.9,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.48666666666666664,
+  "egim": 47.6,
+  "kayma": 9.7,
+  "x": 6.852,
+  "plan": 6.613,
+  "dustu": 8.03
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.1,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.4787878787878788,
+  "egim": 43.8,
+  "kayma": 6.0,
+  "x": 6.356,
+  "plan": 6.611,
+  "dustu": 7.9
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.3,
+   "dsr": 0.15,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.15,
+   "widthz": 0.7,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 2.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.47333333333333333,
+  "egim": 34.6,
+  "kayma": 4.8,
+  "x": 4.595,
+  "plan": 5.666,
+  "dustu": 7.1
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.15,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.46121212121212124,
+  "egim": 38.5,
+  "kayma": 5.2,
+  "x": 5.411,
+  "plan": 6.613,
+  "dustu": 7.61
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.1,
+   "widthz": 0.9,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 2.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.46121212121212124,
+  "egim": 45.3,
+  "kayma": 6.1,
+  "x": 6.496,
+  "plan": 6.613,
+  "dustu": 7.61
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.1,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.05,
+   "widthz": 0.9,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.4606060606060606,
+  "egim": 45.8,
+  "kayma": 7.0,
+  "x": 6.557,
+  "plan": 6.613,
+  "dustu": 7.6
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.0,
+   "kscale": 2.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.4575757575757576,
+  "egim": 38.7,
+  "kayma": 6.2,
+  "x": 5.728,
+  "plan": 6.613,
+  "dustu": 7.55
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.1,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 0.7,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 2.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.44545454545454544,
+  "egim": 46.5,
+  "kayma": 7.1,
+  "x": 6.163,
+  "plan": 6.613,
+  "dustu": 7.35
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.15,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.15,
+   "widthz": 1.0,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.43696969696969695,
+  "egim": 44.9,
+  "kayma": 5.9,
+  "x": 5.963,
+  "plan": 6.613,
+  "dustu": 7.21
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.3,
+   "dsr": 0.1,
+   "zh": 0.8,
+   "stepH": 0.08,
+   "heel": 0.0,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 1.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.434,
+  "egim": 36.2,
+  "kayma": 5.5,
+  "x": 4.657,
+  "plan": 5.668,
+  "dustu": 6.51
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.0,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 1.5,
+   "kscale": 2.0,
+   "kpitch": 800.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.43393939393939396,
+  "egim": 36.2,
+  "kayma": 5.8,
+  "x": 5.495,
+  "plan": 6.611,
+  "dustu": 7.16
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.45,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.1,
+   "widthz": 0.8,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 1.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.41435897435897434,
+  "egim": 39.6,
+  "kayma": 3.9,
+  "x": 7.669,
+  "plan": 8.502,
+  "dustu": 8.08
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.35,
+   "dsr": 0.1,
+   "zh": 0.8,
+   "stepH": 0.06,
+   "heel": 0.05,
+   "widthz": 1.0,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 2.0,
+   "kpitch": 800.0,
+   "kroll": 300.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.4103030303030303,
+  "egim": 52.9,
+  "kayma": 6.0,
+  "x": 5.533,
+  "plan": 6.613,
+  "dustu": 6.77
+ },
+ {
+  "g": {
+   "vx": 1.4,
+   "Ts": 0.4,
+   "dsr": 0.05,
+   "zh": 0.78,
+   "stepH": 0.08,
+   "heel": 0.05,
+   "widthz": 0.7,
+   "arm": 0.6,
+   "nSteps": 15
+  },
+  "w": {
+   "kdcm": 0.5,
+   "kscale": 2.0,
+   "kpitch": 300.0,
+   "kroll": 800.0,
+   "mot": {
+    "hip_pitch": [
+     250,
+     20
+    ],
+    "knee": [
+     300,
+     22
+    ],
+    "ankle_pitch": [
+     180,
+     16
+    ],
+    "hip_roll": [
+     150,
+     10
+    ],
+    "hip_yaw": [
+     90,
+     20
+    ],
+    "ankle_roll": [
+     70,
+     20
+    ]
+   }
+  },
+  "ok": false,
+  "dist": 0.4088888888888889,
+  "egim": 32.8,
+  "kayma": 3.1,
+  "x": 6.753,
+  "plan": 7.556,
+  "dustu": 7.36
+ }
+]

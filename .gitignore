@@ -1,0 +1,11 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# MATLAB / Simulink generated
+slprj/
+*.slxc
+*.asv
+*.autosave
